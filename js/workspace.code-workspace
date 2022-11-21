@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\template"
+		},
+		{
+			"path": "..\\..\\..\\myproject"
+		},
+		{
+			"path": "..\\..\\..\\WAYUP\\ДЗ2"
+		},
+		{
+			"path": "..\\..\\..\\WAYUP\\ДЗ4"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "template"
+	}
+}
